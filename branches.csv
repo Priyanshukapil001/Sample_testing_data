@@ -1,0 +1,13 @@
+branch_id,branch_name,city,state,branch_type
+BR001,Mumbai Central Branch,Mumbai,MH,Retail
+BR002,Bengaluru West Branch,Bengaluru,KA,Retail
+BR003,Delhi East Branch,Delhi,DL,Retail
+BR004,Chennai Central Branch,Chennai,TN,Corporate
+BR005,Hyderabad Central Branch,Hyderabad,TS,Corporate
+BR006,Pune North Branch,Pune,MH,Retail
+BR007,Kolkata Central Branch,Kolkata,WB,Retail
+BR008,Ahmedabad East Branch,Ahmedabad,GJ,Retail
+BR009,Jaipur Central Branch,Jaipur,RJ,Corporate
+BR010,Kochi East Branch,Kochi,KL,Corporate
+BR011,Lucknow North Branch,Lucknow,UP,Retail
+BR012,Indore North Branch,Indore,MP,Corporate
